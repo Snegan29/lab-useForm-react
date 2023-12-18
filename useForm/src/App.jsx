@@ -5,7 +5,6 @@ import {useForm} from 'react-hook-form'
 
 function App() {
   const {register, handleSubmit, 
-
     formState:{errors}
   } = useForm()
 
